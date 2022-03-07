@@ -1,0 +1,4 @@
+1.What is a repository ? and how is it diff from a branch ?
+
+ ans:-The repository is like a data structure used by VCS to store metadata for a set of files and directories. It contains the collection of the files as well as the history of changes made to those files. Repository in Git is considered as your project folder. A repository has all the project-related data.
+ A repository is your whole project (directories and files) that you clone on your computer. A branch is a version of your repository, or in other words, an independent line of development.
