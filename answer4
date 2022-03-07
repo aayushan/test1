@@ -1,0 +1,8 @@
+What is git Stash, Pop and apply. The diff between these
+
+ ANS:-The git stash command enables you to switch branches without committing the current branch.
+ The git stash pop command is quite similar to git stash apply. The main difference between both of these commands is stash pop command that deletes the stash from the stack after it is applied.
+ 
+git apply takes a patch (e.g. the output of git diff ) and applies it to the working directory (or index, if --index or --cached is used). git am takes a mailbox of commits formatted as an email messages (e.g. the output of git format-patch ) and applies them to the current branch.
+
+
